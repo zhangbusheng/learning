@@ -1,2 +1,4 @@
-Git is a distributed version control system.
-Git is free software.
+言念君子 温其如玉
+静心得意 天下有春
+遇事不决 可问春风
+春风不语 ？？？？
